@@ -1,0 +1,44 @@
+.wrapper {
+  width: 360px;
+  margin-top: 14px;
+  margin-bottom: 32px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #10182833;
+  color: #454545;
+}
+
+.equipment-list {
+  width: 360px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 24px;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.filter-button-checkbox,
+.filter-button-radio {
+  display: none;
+}
+
+.filter-button-label {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.filter-button-checkbox:checked + .filter-button-label,
+.filter-button-radio:checked + .filter-button-label {
+  background-color: #e44848;
+  color: #fff;
+}

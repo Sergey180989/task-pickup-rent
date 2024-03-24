@@ -1,0 +1,12 @@
+.card-picture-wrapper {
+  height: 310px;
+  width: 290px;
+  border-radius: 10px;
+}
+
+.card-picture-img {
+  object-fit: cover;
+  height: 310px;
+  width: 290px;
+  border-radius: 10px;
+}

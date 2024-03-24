@@ -1,0 +1,29 @@
+.card-list-wrapper {
+  margin: 0 auto;
+  width: 888px;
+  display: flex;
+  flex-direction: column;
+}
+
+.load-more-btn {
+  margin: 0 auto;
+  width: 173px;
+  height: 56px;
+  padding: 10px 16px;
+  text-align: center;
+  border-radius: 1.5rem;
+  border-radius: 200px;
+  box-sizing: border-box;
+  gap: 10px;
+  justify-content: center;
+  border: 1px solid #10182833;
+  background-color: #ffffff;
+}
+
+.load-more-btn:hover {
+  border: #10182833;
+}
+
+.load-more-text {
+  color: #000000;
+}

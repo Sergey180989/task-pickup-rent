@@ -1,0 +1,33 @@
+.custom-modal-wrap {
+  /* Your custom styles for modal wrapper */
+}
+
+.layout {
+  padding: 40px;
+}
+
+.review-location-wrap {
+  width: 526px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 8px;
+  margin-bottom: 13px;
+}
+
+.image-wrapper {
+  width: 902px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.image-item {
+  /* Your custom styles for image item */
+}
+
+.feature-review-wrapper {
+  /* Your custom styles for feature review wrapper */
+}

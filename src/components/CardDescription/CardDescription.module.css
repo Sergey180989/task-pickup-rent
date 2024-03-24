@@ -1,0 +1,12 @@
+.card-description-wrapper {
+  width: 515px;
+  margin-bottom: 24px;
+}
+
+.card-description-text {
+  color: #808080;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: justify;
+}

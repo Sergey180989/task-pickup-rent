@@ -1,0 +1,17 @@
+.review-wrapper {
+  height: 24px;
+}
+
+.review-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.reviews-link {
+  border-bottom: 1px solid;
+  margin-left: 4px;
+  color: #101828;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}

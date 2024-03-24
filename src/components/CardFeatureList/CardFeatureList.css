@@ -1,0 +1,31 @@
+.card-feature-list {
+  width: 526px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+  list-style: none;
+  padding: 0;
+}
+
+.card-feature-list-item {
+  height: 44px;
+  border-radius: 100px;
+  background-color: #f0f0f0; /* замініть цей колір на потрібний */
+  padding: 12px 18px;
+  display: flex;
+  align-items: center;
+}
+
+.card-feature-list-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.card-feature-list-text {
+  margin-left: 8px;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000; /* замініть цей колір на потрібний */
+}
